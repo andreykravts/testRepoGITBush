@@ -1,1 +1,2 @@
-print()[D''[Duseles[C[D')
+print('Fuck this')
+print('what the fuck?')

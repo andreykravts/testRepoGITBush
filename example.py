@@ -1,1 +1,1 @@
-print()[D''[DHello world bithes!')
+print('Git bush is a very bad tool for editing your files')
